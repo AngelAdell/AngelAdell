@@ -36,6 +36,9 @@ Team Collaboration: Building a strong team with complementary skills is essentia
 
 <h3>Thank you for visiting my GitHub repository. I hope you find the projects and insights shared here valuable. Let’s continue to innovate and create solutions that make a difference!</h3>
 
+<h2>Launguages and Tools</h2>
+
+
 <p>Angel Adell
 Founder & CEO of Ephe Collective
 Email: shop@ephecollective.com</p>
